@@ -1,2 +1,2 @@
-# magdabreyer.github.io
+# mabreyer.github.io
  my simple website
