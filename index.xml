@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magdalena Breyer</title>
-    <link>www.magdalenabreyer.net/</link>
+    <link>https://www.magdalenabreyer.net/</link>
     <description>Recent content on Magdalena Breyer</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="www.magdalenabreyer.net/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.magdalenabreyer.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>www.magdalenabreyer.net/contact/</link>
+      <link>https://www.magdalenabreyer.net/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.magdalenabreyer.net/contact/</guid>
+      <guid>https://www.magdalenabreyer.net/contact/</guid>
       <description>Email: breyer@ipz.uzh.ch
  Address  Department of Political Science, University of Zurich
 Affolternstrasse 56
@@ -21,10 +21,10 @@ Switzerland
     
     <item>
       <title>Teaching</title>
-      <link>www.magdalenabreyer.net/teaching/</link>
+      <link>https://www.magdalenabreyer.net/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.magdalenabreyer.net/teaching/</guid>
+      <guid>https://www.magdalenabreyer.net/teaching/</guid>
       <description>Seminars Undergraduate Seminar Gender and the Radical Right, Fall 2020, University of Zurich
  Tutorials Tutorial Methods of Political Science (Fall 2013/2014, Spring 2017, Fall 2017/2018 &amp;amp; 2018/2019), Freie Universität Berlin &amp;amp; University of Freiburg
 Tutorial Data Analysis (Spring 2017 &amp;amp; 2018), Freie Universität Berlin</description>
